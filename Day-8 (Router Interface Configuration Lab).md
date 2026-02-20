@@ -84,3 +84,5 @@ Configure IP addresses, subnet masks, and default gateways on PC1, PC2, and PC3 
 
 ## Results & Screenshots
 <img width="1898" height="627" alt="image" src="https://github.com/user-attachments/assets/f140b92f-b0c2-4476-a0b1-c5b24be5858c" />
+
+<img width="1811" height="895" alt="image" src="https://github.com/user-attachments/assets/38ac1333-86f4-4428-baff-7779079a979c" />
