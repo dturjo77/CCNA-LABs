@@ -122,15 +122,6 @@ SW1(config-if-range)# description ## not in use ##
 SW1(config-if-range)# shutdown
 ```
 
-(Note: Typo in input as "shut down" – correct is `shutdown`. This would disable ports if executed properly.)
-
-```
-SW1(config-if-range)# end
-SW1# write memory
-```
-
-([OK] – saves config.)
-
 ### Switch (SW2) Configuration
 Similar to SW1: Set hostname, configure Gigabit link to R1, descriptions on PC ports and unused, with attempts to disable unused ports.
 
@@ -159,14 +150,6 @@ SW2(config-if-range)# description ## not in use ##
 SW2(config-if-range)# shutdown
 ```
 
-(Multiple typo attempts; correct command is `shutdown`.)
-
-```
-SW2(config-if-range)# end
-SW2# write memory
-```
-
-([OK].)
 
 ## Results & Screenshots
 <img width="690" height="602" alt="image" src="https://github.com/user-attachments/assets/e16200f9-a600-4eb8-ba21-57d16aa2af29" />
